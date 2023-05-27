@@ -1,0 +1,92 @@
+.body{
+    background-color: #f9f4ed;
+    width: 800px;
+    margin: auto;
+}
+.sam{
+    margin-left: 100px;
+    width: 70px;
+    height: 40px;
+    text-align: center;
+    border-color: #000;
+    font-family: "caveat";
+    border-style: solid;
+}
+.sam h1{
+    margin: auto;
+}
+div img{
+    width: 400px;
+    margin-left: 200px ;
+}
+.div1{
+    font-family: "dosis";
+    background-color: palevioletred;
+    color: whitesmoke;
+    text-align: center;
+    border-radius: 5px;
+    width: 30em;
+    height: 25px;
+    padding-top: 5px;
+    margin-left: 100px;
+    text-transform: uppercase;
+    font-weight: bolder;
+    font-size: larger;
+}
+.h1{
+    font-family: "dosis";
+    font-size:80px ;
+    font-weight: 30cm;
+    margin-left: 100px;
+}
+.para{
+     margin-bottom: 40px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+div p{
+     font-family: "bitter";
+     margin-left:70px ;
+}
+hr{
+    color: palevioletred;
+   border-top: 10px solid;
+}
+.heading{
+    font-weight: lighter;
+    font-family: "bitter";
+    margin-left:100px ;
+}
+section a{
+    font-family: "dosis";
+    text-decoration: none;
+    color: black;
+    margin-left: 60px;
+}
+ul{
+    list-style: none;
+}
+section h3{
+    margin-bottom: 0;
+}
+section p{
+    font-family: "dosis";
+    margin-left:60px ;
+   margin-top: 0%;
+}
+.end a{
+    text-decoration: none;
+    font-family: "bitter";
+    color: #000;
+}
+.end{
+    margin-left: 60px;
+}
+footer a{
+    font-family: "dosis";
+    text-decoration: none;
+    color: #000;
+}
+footer{
+    margin-left: 30px;
+}
